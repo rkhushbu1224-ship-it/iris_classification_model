@@ -82,12 +82,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your UI here)
-
----
-
 ## 💡 How it works
 
 1. User inputs flower measurements using sliders
@@ -108,7 +102,7 @@ http://127.0.0.1:5000
 
 ## 👩‍💻 Author
 
-Khushbu R
+Khushbu 
 
 ---
 
